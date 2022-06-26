@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 67dd3ae96375c25f40280171896a7e07d21ca557
 # Weather Application
 
 This application is for checking weather for various places it has a search box where you enter the name of the place you want to check and press enter.
@@ -266,3 +269,7 @@ This project is used by the following companies:
 
 - just for school submission at the moment
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 67dd3ae96375c25f40280171896a7e07d21ca557
