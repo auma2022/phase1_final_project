@@ -19,12 +19,12 @@
 // * Make the change on your fork, with descriptive commits in the standard format
 // * Open a Pull Request against this repo
 const config = {
-<<<<<<< HEAD
+
   SECRET_API_KEY : 'ba592b63df4dfd7ea30a4a5de7290cbe'
-=======
-  SECRET_API_KEY : ''
->>>>>>> fe3d83fd7c65008051acd6eb730c50f1deba28a9
 }
+//   SECRET_API_KEY : ''
+// >>>>>>> fe3d83fd7c65008051acd6eb730c50f1deba28a9
+
 // A curriculum owner will review your change and approve or comment on it in due
 // course.
 
